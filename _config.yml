@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Sonologopedie
+url: "https://sonologopedie.cz"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -12,13 +12,12 @@ disqus_shortname:
 logo: /siteicon.png
 description: Product marketing template for Jekyll.
 author:
-  name:
-  email:
+  name: Tanja Kocjančič Antolík
+  email: sonologopedie@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Tanja Kocjančič Antolík
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
@@ -90,15 +89,15 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
+#  - Facebook
+#  - Google Plus
+#  - Instagram
+#  - LinkedIn
+#  - Pinterest
+#  - Tumblr
+#  - Twitter
+#  - YouTube
+#  - RSS
 
 _comments:
   map: Update the map location and display settings.
