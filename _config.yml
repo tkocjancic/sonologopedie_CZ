@@ -2,8 +2,7 @@
 # Site
 
 title: Sonologopedie
-url: "https://tkocjancic.github.io/sonologopedie" #"https://sonologopedie.cz"
-baseurl: https://tkocjancic.github.io/sonologopedie
+url: "https://sonologopedie.cz" #"https://tkocjancic.github.io/sonologopedie" #"https://sonologopedie.cz"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
