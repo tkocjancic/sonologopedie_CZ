@@ -6,10 +6,10 @@
   link: /pricing/
   new_window: false
   highlight: false  
-- name: Booking
-  link: /booking/
-  new_window: false
-  highlight: false
+#- name: Booking
+ #link: /booking/
+  #new_window: false
+  #highlight: false
 - name: About
   link: /about/
   new_window: false
