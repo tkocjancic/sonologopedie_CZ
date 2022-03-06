@@ -1,16 +1,18 @@
 - title: Contact 
   links:
+    - name: <a href="https://www.picktime.com/sonologopedie">Make an appointment</a>
+      link: /contact/
     - name: +420 732 171 923 
       link: /contact/
     - name: sonologopedie@gmail.com
       link: /contact/
 
-- title: The clinic
+- title: The practice
   links:
     - name: Pricing
       link: /pricing/
-    - name: About
-      link: /about/
+    - name: Services
+      link: /services/
     - name: Science
       link: /science/
 
