@@ -1,4 +1,4 @@
-- title: Make an appointment
+- title: Objednat termín
   links:
     - name: <a href="https://www.picktime.com/sonologopedie">Online</a>
       link: /contact/
@@ -9,9 +9,9 @@
 
 - title: Info
   links:
-    - name: Pricing
+    - name: Ceník
       link: /pricing/
-    - name: Services
+    - name: Služby
       link: /services/
 
 #- links:
